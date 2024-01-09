@@ -10,3 +10,5 @@ fonctions :
 * pause / reprise
 * plein-écran
 * rotation et miroir
+
+[démo](https://pi3141.github.io/simpleWebcam.html)
